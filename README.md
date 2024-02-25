@@ -3,9 +3,7 @@
 
 I'm passionate about games and software development.
 
-- 🔭 I’m currently working on **developing the website for <a href="https://github.com/York-Community-Consulting">YCC</a>**
-
-- 🌱 I’m currently learning **C++ and Unreal Engine**
+- 🌱 I’m currently learning **Graphics Programming and Shaders in Unity**
 
 - 📫 How to reach me **jjzsilva99@gmail.com**
 
