@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm Joe</h1>
 <h3>A Computer Science student at the University of York</h3>
-<h4>Incoming SWE Intern @ Microsoft | Incoming Placement Engineer @ Pinecone</h4>
+<h4>SWE Intern @ Microsoft | Incoming Placement Engineer @ Pinecone</h4>
 
-- 🌱 I’m currently learning:
+🌱 I’m currently learning:
 
-- Graphics Programming and Shaders in Unity
+- Distributed storage systems, IaC, Networking, Linux
 - ML and Linear Algebra with NumPy and PyTorch
 - Pipeline Scheduling Algorithms in C++
 - Software Engineering Principles (CI, Github Actions, Architecture)
