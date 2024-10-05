@@ -1,13 +1,12 @@
 <h1>Hi 👋, I'm Joe</h1>
 <h3>A Computer Science student at the University of York</h3>
-<h4>SWE Intern @ Microsoft</h4>
+<h4>Prev SWE Intern @ Microsoft</h4>
 
 🌱 I’m currently learning:
 
-- Distributed storage systems, IaC, Networking, Linux
-- ML and Linear Algebra with NumPy and PyTorch
-- Pipeline Scheduling Algorithms in C++
-- Software Engineering Principles (CI, Github Actions, Architecture)
+- Computer Vision and Graphics
+- Autonomous Robotics with ROS
+
 
 - 📫 How to reach me **jjzsilva99@gmail.com**
 
