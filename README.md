@@ -1,9 +1,10 @@
 <h1>Hi 👋, I'm Joe</h1>
 <h3>A Computer Science student at the University of York</h3>
-<h4>Prev SWE Intern @ Microsoft</h4>
+<h4>Prev SWE Intern @ Microsoft | Undertaking final year project in partnership with AMD</h4>
 
 🌱 I’m currently learning:
 
+- Final year project: Predicting player viewpoint motion from rendered frames (for application in cloud gaming)
 - Computer Vision and Graphics
 - Autonomous Robotics with ROS
 
