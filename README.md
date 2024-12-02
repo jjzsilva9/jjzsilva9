@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Joe</h1>
 <h3>A Computer Science student at the University of York</h3>
-<h4>Prev SWE Intern @ Microsoft | Undertaking final year project in partnership with AMD</h4>
+<h4>Prev SWE Intern @ Microsoft - Returning next summer | Undertaking final year project in partnership with AMD</h4>
 
 🌱 I’m currently learning:
 
