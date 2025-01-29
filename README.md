@@ -2,11 +2,11 @@
 <h3>A Computer Science student at the University of York | Incoming Masters Student at Trinity College Dublin</h3>
 <h4>Prev SWE Intern @ Microsoft - Returning next summer | Undertaking final year project in partnership with AMD</h4>
 
-🌱 I’m currently learning:
+🌱 I’m currently learning/working on:
 
-- Final year project: Predicting player viewpoint motion from rendered frames (for application in cloud gaming)
-- Computer Vision and Graphics
-- Autonomous Robotics with ROS
+- Predicting player viewpoint motion from rendered frames (for application in cloud gaming)
+- Probabilistic and deep learning
+- Embedded Systems
 
 
 - 📫 How to reach me **jjzsilva99@gmail.com**
