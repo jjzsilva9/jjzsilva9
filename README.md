@@ -1,12 +1,12 @@
 <h1>Hi 👋, I'm Joe</h1>
 <h3>A Computer Science student at the University of York | Incoming Masters Student at Trinity College Dublin</h3>
-<h4>Prev SWE Intern @ Microsoft - Returning next summer | Undertaking final year project in partnership with AMD</h4>
+<h4>Prev SWE Intern @ Microsoft - Returning next summer in Azure Platform and Edge | Undertaking final year project in partnership with AMD</h4>
 
 🌱 I’m currently learning/working on:
 
-- Predicting player viewpoint motion from rendered frames (for application in cloud gaming)
-- Probabilistic and deep learning
-- Embedded Systems
+- Predicting player viewpoint motion from rendered frames in Doom (for application in cloud gaming)
+- Probabilistic and deep learning - Deep generative models and transformers
+- Embedded Systems - Vivado, Vitis, Vitis HLS
 
 
 📫 How to reach me **jjzsilva99@gmail.com**
