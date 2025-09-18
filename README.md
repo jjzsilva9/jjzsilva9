@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Joe</h1>
-<h3>MSc CS = AR/VR at Trinity College Dublin</h3>
+<h3>MSc CS - AR/VR at Trinity College Dublin</h3>
 <h4>Prev 2x SWE Intern @ Microsoft</h4>
 
 I'm interested in graphics and AI!
