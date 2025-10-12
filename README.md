@@ -4,6 +4,11 @@
 
 I'm interested in graphics and AI!
 
+I'm currently working on:
+- Computer Graphics with OpenGL and Unreal Engine 5
+- A multiplayer VR game in Unity
+- Real-time Animation in UE5
+
 📫 How to reach me **jjzsilva99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
