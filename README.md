@@ -5,7 +5,8 @@
 I'm interested in graphics and AI!
 
 I'm currently working on:
-- Computer Graphics with OpenGL and Unreal Engine 5
+- Computer Graphics with OpenGL
+- Developing a racing game in Unreal Engine 5
 - A multiplayer VR game in Unity
 - Real-time Animation in UE5
 
