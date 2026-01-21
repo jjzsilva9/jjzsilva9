@@ -5,11 +5,13 @@
 I'm interested in graphics and AI!
 
 I'm currently working on:
-- Computer Graphics with OpenGL - see <a href="https://github.com/jjzsilva9/opengl-graphics">here</a>
-- Predicting the outcome of roulette using deep vision models (sounds crazy but actually possible - see <a href="https://pubs.aip.org/aip/cha/article-abstract/22/3/033150/912665/Predicting-the-outcome-of-roulette?redirectedFrom=fulltext">here</a>)
-- Developing a racing game in Unreal Engine 5 - <a href="https://github.com/jjzsilva9/Future-Racing">here</a>
+- Real-Time Rendering in OpenGL - see <a href="https://github.com/jjzsilva9/opengl-graphics">here</a> and <a href="https://github.com/jjzsilva9/real-time-rendering">here</a>
 - A multiplayer VR game in Unity - <a href="https://github.com/batunii/Project_X">here</a>
 - Real-time Animation in UE5
+
+And recently I was working on:
+- Predicting the outcome of roulette using deep vision models - <a href="https://github.com/jjzsilva9/roulette-predictor">here</a>)
+- Developing a racing game in Unreal Engine 5 - <a href="https://github.com/jjzsilva9/Future-Racing">here</a>
 
 📫 How to reach me **jjzsilva99@gmail.com**
 
